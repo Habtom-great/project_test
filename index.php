@@ -13,7 +13,14 @@
 </div>
 
 <?php include 'footer.php'; ?>
-kkkkkkkk
+
+
+
+
+
+
+
+
 <?php
 include('header.php');
 include('db.php');
